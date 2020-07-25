@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "fusion-cli": "^2.14.0",
+    "fusion-core": "^2.2.1",
+    "fusion-plugin-react-router": "^2.2.7",
+    "fusion-plugin-universal-events": "^2.1.4",
+    "fusion-react": "^4.0.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "fusion dev"
+  }
+}
